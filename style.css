@@ -1,0 +1,319 @@
+.interface {
+    width: 1800px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto;
+    box-shadow: 0px 0px 10px rgb(6, 156, 194, 0.9);
+    padding: 10px;
+
+}
+
+
+header {
+    text-align: center;
+}
+
+
+header img#principal{ 
+    position: relative;
+
+}
+
+/*SOBRE MIM*/
+
+
+img#home{
+    position: absolute;
+    margin-left: 1110px;
+    margin-top: -500px;
+    width: 500px;
+}
+
+img#mulher{
+    width: 600px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 100px;
+}
+
+img#qualificacao{
+    margin-left: 450px;
+    margin-top: 100px;
+}
+
+img#computador{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+
+img#operador{
+    position: absolute;
+    margin-top: -650px;
+    margin-left: 1100px;
+}
+
+img#conhecimento{
+    position: absolute;
+    margin-top: -550px;
+    margin-left: 1000px;
+}
+
+img#sitehtml{
+    position: absolute;
+    margin-left: -100px;
+    margin-top: -400px;
+    width: 600px;
+}
+
+
+h1{
+    margin-top: 130px;
+    margin: 70px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    background-color: #069cc2;
+    padding: 10px;
+    font-size: 50pt;
+}
+
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #242725;
+    padding: 10px;
+    font-size: 50pt;
+}
+
+div#texto-curso1{
+    text-align: right;
+    width: 900px;
+    margin-left: 790px;
+    margin-top: 200px;
+
+}
+
+div#texto-curso1 p{
+    text-align: right;
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #242725;
+    line-height: 40pt;
+}
+
+div#texto-curso2{
+    width: 900px;
+    margin-left: -80px;
+    margin-top: 200px;
+
+
+}
+
+div#texto-curso2 p{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 30pt;
+    line-height: 40pt;
+    color: #242725;
+}
+
+div#texto-curso3{
+    text-align: right;
+    width: 900px;
+    margin-left: 650px;
+    margin-top: 200px;
+
+
+
+}
+
+div#texto-curso3 p{
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 30pt;
+    line-height: 40pt;
+    color: #242725;
+}
+
+div#texto-sobremim{
+    margin: 50px;
+    margin-top: 200px;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 30pt;
+    line-height: 40pt;
+    color: #242725;
+    width: 900px;
+}
+
+
+div#texto-ads{
+    text-align: right;
+    width: 900px;
+    margin-left: 850px;
+    margin-top: 200px;
+
+}
+
+
+div#texto-ads p{
+    text-align: right;
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #242725;
+    line-height: 40pt;
+}
+
+
+
+div#texto-eu{
+    text-align: center;
+    position: absolute;
+    width: 900px;
+    margin-left: 37px;
+    margin-top: 50px;
+
+}
+
+
+div#texto-eu p{
+    text-align: center;
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #242725;
+    line-height: 40pt;
+}
+
+div#texto-conhecimentos{
+    text-align: left;
+
+    width: 900px;
+    margin-left: -217px;
+    margin-top: 200px;
+
+}
+
+
+div#texto-conhecimentos p{
+    text-align: left;
+    font-size: 30pt;
+    font-family: sans-serif;
+    color: #242725;
+    line-height: 40pt;
+}
+
+
+
+
+
+/* botões do site - MENU*/
+
+main#menu{
+    position: relative;
+    top: auto;
+}
+
+.btn1 {
+    position: absolute;
+    background: #069cc2;
+    border-radius: 40px;
+    padding: 19px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    font-size: 25px;
+    margin-left: -550px;
+    margin-bottom: 455px;
+}
+.btn2 {
+    position: absolute;
+    background: #069cc2;
+    border-radius: 40px;
+    padding: 19px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    font-size: 25px;
+    margin-left: -400px;
+    margin-bottom: 455px;
+}
+.btn3 {
+    position: absolute;
+    background: #069cc2;
+    border-radius: 40px;
+    padding: 19px;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    font-size: 25px;
+    margin-left: -150px;
+    margin-bottom: 455px;
+}
+
+
+
+.rodape{
+    border-top: 3px #069cc2 solid;
+    
+}
+
+
+footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #696969;
+    text-indent: 50px;
+    margin: 5px;
+    text-decoration: none;
+}
+
+
+footer h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #242725;
+    padding: 10px;
+    font-size: 30pt;
+}
+
+a#autors{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #696969;
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+img#email{
+    width: 42px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+img#insta{
+    width: 42px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+img#face{
+    width: 42px;
+    position: absolute;
+    margin-top: 0px;
+}
+
+p#autores{
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -13px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #696969;
+}
+
+
+
